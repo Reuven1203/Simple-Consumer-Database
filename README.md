@@ -6,3 +6,4 @@ The driver class is the program itself. This program allows the user to create c
 the information needed. The user can also edit that information. These require the user to input the correct password before doing so.
 After multiple consumers have been added, the user also has access to search for any consumer with given inputted parameters.
 The correct password is: password
+The information for all methods can be found in the doc file as a javaDoc
